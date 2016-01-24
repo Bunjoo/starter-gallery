@@ -77,13 +77,13 @@
                     </tr>
                     <tr>
                         <td class="oneimage">
-                            <a href="./data/serengeti-landscape.jpg" data-lightbox="gallery" data-title="Beautiful Landscape of Serengeti ... Posted 2014.04.05 by donald, in landscape"><img src="../../data/thumb/serengeti-landscape.jpg"/></a>
+                            <a href="/data/serengeti-landscape.jpg" data-lightbox="gallery" data-title="Beautiful Landscape of Serengeti ... Posted 2014.04.05 by donald, in landscape"><img src="../../data/thumb/serengeti-landscape.jpg"/></a>
                         </td>
                         <td class="oneimage">
-                            <a href="./data/new-zealand-landscape-cc-2006-big.jpg" data-lightbox="gallery" data-title="New Zealand landscape ... Posted 2014.04.02 by mickey, in landscape"><img src="../../data/thumb/new-zealand-landscape-cc-2006-big.jpg"/></a>
+                            <a href="/data/new-zealand-landscape-cc-2006-big.jpg" data-lightbox="gallery" data-title="New Zealand landscape ... Posted 2014.04.02 by mickey, in landscape"><img src="../../data/thumb/new-zealand-landscape-cc-2006-big.jpg"/></a>
                         </td>
                         <td class="oneimage">
-                            <a href="./data/5187516909_d07a5beb13_b.jpg" data-lightbox="gallery" data-title="Scientists in Antarctic landscape ... Posted 2014.04.01 by donald, in landscape"><img src="../../data/thumb/5187516909_d07a5beb13_b.jpg"/></a>
+                            <a href="/data/5187516909_d07a5beb13_b.jpg" data-lightbox="gallery" data-title="Scientists in Antarctic landscape ... Posted 2014.04.01 by donald, in landscape"><img src="../../data/thumb/5187516909_d07a5beb13_b.jpg"/></a>
                         </td>
                     </tr>
                     <tr>
